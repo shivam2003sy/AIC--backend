@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/shivam2003sy/AIC--backend/blob/master/images/logo.jpg)
 
 
 # AIC - ambulance in cloud
@@ -87,7 +87,7 @@ For support, email shivam2003sy@gmail.com
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/phone.jpeg)
 
 
 ## Authors
