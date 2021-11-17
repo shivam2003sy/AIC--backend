@@ -89,7 +89,9 @@ For support, email shivam2003sy@gmail.com
 ## Screenshots
 
 ![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/phone.jpeg)
-
+![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/terminalwhenbutton%20trigered.png)
+![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/whenhelp%20paitent%20clocked.png)
+![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/phone.jpeg)
 
 ## Authors
 - [@shivamsingh](https://github.com/shivam2003sy)
