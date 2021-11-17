@@ -87,11 +87,15 @@ For support, email shivam2003sy@gmail.com
 
 
 ## Screenshots
-
+phone screen
 ![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/phone.jpeg)
+web screen
+![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/screencapture-localhost-3000-01-2021-11-17-15_51_45.png)
+server calculated nearby distance
 ![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/terminalwhenbutton%20trigered.png)
+trriger sent to ambulance 
 ![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/whenhelp%20paitent%20clocked.png)
-![App Screenshot](https://github.com/shivam2003sy/AIC--backend/blob/master/images/phone.jpeg)
+
 
 ## Authors
 - [@shivamsingh](https://github.com/shivam2003sy)
